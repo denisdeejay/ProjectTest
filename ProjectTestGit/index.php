@@ -5,8 +5,10 @@
         <title></title>
     </head>
     <body>
-	<?php
-	// put your code here
-	?>
+	<div>
+	    <ul>
+		<li>test</li>
+	    </ul>
+	</div>
     </body>
 </html>
